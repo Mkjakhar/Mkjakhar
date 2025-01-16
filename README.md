@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Jakhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **Node Js, Databases**
+
 - 💬 Ask me about **Front-End Development, React Js**
 
 - 📫 How to reach me **mkjakhar909@gmail.com**
